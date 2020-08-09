@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "${workspaceRoot}",
-                "D:\\harddisk\\github-interest-cry\\cppinclude\\boost_1_73_0"
+                "D:\\harddisk\\github-interest-cry\\webcpp\\websocketclient\\websocketpp",
+                "D:\\harddisk\\github-interest-cry\\cppinclude"
             ],
             "defines": [
                 "_DEBUG",
